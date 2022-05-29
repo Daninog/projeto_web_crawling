@@ -12,7 +12,7 @@ por isso se faz necessário o desenvolvimento de ferramentas para a extração d
 
 # Etapas do projeto
 
-- Pesquisa das páginas da internet de interesse e que permitissem a extração de dados de forma efetiva e 
+- Pesquisa das páginas da internet de interesse que permitissem a extração de dados de forma efetiva e 
 seleção das informações que seriam extraídas:
 
 	- Sites: Band, CNN e Exame.
