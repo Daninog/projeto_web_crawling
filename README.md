@@ -8,7 +8,7 @@ dados de sites de notícias concorrentes e ao final realizar algumas métricas.
 # Motivação: Por que criar web crawlers?
 
 Nem todo site tem API's de onde podemos extrair dados de forma organizada e simplificada, como no formato JSON por exemplo, 
-por isso é necessário desenvolver ferramentas para extrair os dados. Os web crawlers, também conhecidos pos spiders, colhem as informações que estão espalhadas pelos sitese as organiza de forma estruturada para podermos utilizá-las.
+por isso é necessário desenvolver ferramentas para extrair os dados. Os web crawlers, também conhecidos pos spiders, colhem as informações que estão espalhadas pelos sites e as organiza de forma estruturada para podermos utilizá-las.
 
 # Etapas do projeto
 
