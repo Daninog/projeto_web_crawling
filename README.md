@@ -1,16 +1,16 @@
-# projeto_web_crawling
+# Projeto Web Crawling
 
-# Objetivo
+## Objetivo
 
 O objetivo do projeto foi desenvolver um código em linguagem python capaz de raspar 
 dados de sites de notícias concorrentes e ao final realizar algumas métricas.
 
-# Motivação: Por que criar web crawlers?
+### Motivação: Por que criar web crawlers?
 
 Nem todo site tem API's de onde podemos extrair dados de forma organizada e simplificada, como no formato JSON por exemplo, 
 por isso se faz necessário o desenvolvimento de ferramentas para a extração de dados. Os web crawlers, também conhecidos por spiders, colhem as informações que estão espalhadas pelos sites e as organiza de forma estruturada para podermos utilizá-las.
 
-# Etapas do projeto
+### Etapas do projeto
 
 - Pesquisa das páginas da internet de interesse que permitissem a extração de dados de forma efetiva e 
 seleção das informações que seriam extraídas:
@@ -32,7 +32,7 @@ seu próprio mecanismo de extração através de seletores css e xpath.
 
 - Métricas realizadas no banco de dados.
 
-# Métricas:
+### Análise dos dados:
 
 - Medição do tamanho do texto da notícia veículada a quantidade de caracteres contabilizados:
 
@@ -44,7 +44,7 @@ O tamanho da noticia pode interferir no tempo de leitura e interesse do leitor n
 do site Exame revelaram que a média supera em quase o dobro a concorrente Band.
 
 
-# Requerimentos para realização do código
+### Requerimentos para realização do código
 
 - Pyhton 3.10.1
 - Scrapy 2.6.1
