@@ -24,7 +24,7 @@ web crawling gratuíto e de código aberto. Nesse processo de raspagem
 das páginas da internet é necessário extrair dados de fontes HTML e o scrapy tem
 seu próprio mecanismo de extração através de seletores css e xpath.
 
-- Tratamento de dados realizada através de Data Frames Pandas e Numpy.
+- Tratamento de dados realizada através de Data Frame Pandas e Numpy.
 
 - Criação de um banco de dados MySQL e tabela em linguagem SQL.
 
