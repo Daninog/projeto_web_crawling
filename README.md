@@ -32,7 +32,7 @@ seu próprio mecanismo de extração através de seletores css e xpath.
 
 - Métricas realizadas no banco de dados.
 
-## Análise dos dados:
+## Análise dos dados
 
 - Medição do tamanho do texto da notícia veículada a quantidade de caracteres contabilizados:
 
@@ -43,6 +43,11 @@ seu próprio mecanismo de extração através de seletores css e xpath.
 O tamanho da noticia pode interferir no tempo de leitura e interesse do leitor na página, as notícias
 do site Exame revelaram que a média supera em quase o dobro a concorrente Band.
 
+## Análises que podem ser feitas a partir dos dados extraídos
+
+- Quais tags foram mais utilizadas indicando o assunto que teve mais repercussão em um determinado período de tempo.
+- Quais autores publicaram mais noticias em um determinado periodo de tempo.
+- Quantidade de noticías publicadas por cada site em um determinado periodo de tempo.
 
 ## Requerimentos para realização do código
 
