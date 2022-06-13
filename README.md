@@ -46,8 +46,8 @@ do site Exame revelaram que a média supera em quase o dobro a concorrente Band.
 ## Análises que podem ser feitas a partir dos dados extraídos
 
 - Quais tags foram mais utilizadas indicando o assunto que teve mais repercussão em um determinado período de tempo.
-- Quais autores publicaram mais noticias em um determinado periodo de tempo.
-- Quantidade de noticías publicadas por cada site em um determinado periodo de tempo.
+- Quais autores publicaram mais notícias em um determinado periodo de tempo.
+- Quantidade de notícias publicadas por cada site em um determinado periodo de tempo.
 
 ## Requerimentos para realização do código
 
